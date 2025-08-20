@@ -4,15 +4,7 @@ This repository contains my intermediate-level Machine Learning projects.
 The goal is to practice data preprocessing, feature engineering, model building, evaluation, and visualization while improving my understanding of real-world ML workflows.
 
 
-Each project has its own folder containing:
-
-notebook.ipynb → Jupyter Notebook with code and explanations
-
-dataset/ → Dataset (if included or linked)
-
-README.md → Project-specific details
-
-Tech Stack
+🛠️ Tech Stack
 
 Languages: Python
 
@@ -20,7 +12,7 @@ Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow / PyTorc
 
 Tools: Jupyter Notebook, Git/GitHub
 
-Key Concepts Covered
+📊 Key Concepts Covered
 
 Data Cleaning & Preprocessing
 
@@ -36,7 +28,7 @@ Hyperparameter Tuning
 
 Basic NLP & Text Classification
 
-Future Work
+🌱 Future Work
 
 Add Deep Learning projects (CNNs, RNNs)
 
@@ -44,7 +36,7 @@ Deploy ML models using Flask / FastAPI / Streamlit
 
 Work on larger real-world datasets
 
-Contributions
+🤝 Contributions
 
 This is a personal learning repo, but suggestions and improvements are welcome! Feel free to open issues or submit pull requests.
 
